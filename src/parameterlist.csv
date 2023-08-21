@@ -1,0 +1,30 @@
+file_path,slope_threshold,amp_threshold,smooth_width,peak_group
+data/17#115_1_0ų_0.5_5x0.15_FV_ContrastImageStack_pixel_1610_1301.csv,0.2,250,100,30
+data/17#115_1_0ų_0.5_5x0.15_FV_pixel_196_1192.csv,0.5,550,20,10
+data/17#115_1_0ų_0.5_5x0.15_FV_pixel_361_1043.csv,0.4,600,30,15
+data/17#115_1_25ų_2_5x015__pixel_1005_644.csv,0.5,150,10,10
+data/2018-02-22 Raunormal Rz0.5 20x060 EA 0,05 1x1_pixel_975_642.csv,0.5,220,14,10
+data/1242_medium_50x_zJump_1_pixel_985_714_reversed.csv,0.4,150,7,3
+data/1242_medium_50x_zJump_1_pixel_985_714.csv,0.4,150,7,3
+data/CIBA-Probe_PointCloudPreProcessing_HighNMP_pixel_200_200.csv,0.5,220,14,10
+data/CIBA-Probe_PointCloudPreProcessing_HighNMP_pixel_1072_1625.csv,0.3,60,5,10
+data/CIBA-Probe_PointCloudPreProcessing_HighNMP_pixel_1142_1644.csv,0.5,40,10,50
+data/CIBA-Probe_PointCloudPreProcessing_HighNMP_pixel_1153_1617.csv,0.5,65,10,20
+data/CIBA-Probe_PointCloudPreProcessing_HighNMP_pixel_1188_658.csv,0.7,70,9,30
+data/CIBA-Probe_PointCloudPreProcessing_HighNMP_pixel_1325_1464.csv,0.5,40,10,50
+data/CIBA-Probe_PointCloudPreProcessing_HighNMP_pixel_1344_846.csv,0.5,40,6,20
+data/CIBA-Probe_PointCloudPreProcessing_HighNMP_pixel_1512_1188.csv,0.5,20,20,50
+data/Kolbenbolzen_gefinisht_2_pixel_1581_975.csv,0.3,30000,5,6
+data/M2_11_Kolbenbolzen_ungefisnisht_tac_pixel_922_705.csv,0.3,135,3,8
+data/Metall_50x_0.8_SIM_pixel_846_743.csv,0.1,1000,2,9
+data/Schneidkante_20x ELWD FV_Contrast_pixel_907_670.csv,0.3,100,18,50
+data/Schneidkante_20x ELWD FV_Contrast_pixel_1000_518.csv,0.3,130,5,15
+data/Schneidkante_20x ELWD FV_Contrast_pixel_1000_533.csv,0.3,150,10,20
+data/Schneidkante_20x ELWD FV_Contrast_pixel_1000_700.csv,0.3,150,10,20
+data/Spiegel_50x 0.8 SIM_pixel_24_1801.csv,0.3,400,2,5
+data/Spiegel_50x 0.8 SIM_pixel_822_838.csv,0.3,400,2,5
+data/Stufe 4ęm 05x_0.15 SIM_pixel_131_978.csv,0.3,345,35,20
+data/Stufe 4ęm 05x_0.15 SIM_pixel_131_988.csv,0.35,100,70,30
+data/Stufe 4ęm 05x_0.15 SIM_pixel_131_989.csv,0.35,120,60,20
+data/Stufe 4ęm 05x_0.15 SIM_pixel_817_544.csv,0.3,1000,20,30
+data/WaferTisch-Kante_5x_0.15NA_SIM_pixel_1321_1005.csv,0.4,30,20,10
